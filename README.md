@@ -47,6 +47,7 @@ Bv. aldoni per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[interfaco](https://github.com/AndreasKueck/interfaco)** *([🌐 Retejo](https://github.com/AndreasKueck/interfaco))* - Tampermonkey-skripto, por traduki uzantointerfacajn elementojn en Esperanton per la OpenAI-API; la skripto funkcias en Google Docs kaj aliaj retejoj
 - **[platformoj](https://github.com/AndreasKueck/platformoj)** - Informoj pri projektoj celantaj kreadon aŭ funkciigadon de platformo por esperantistoj ekster BlueSky, Discord, Facebook, Google Groups, Instagram, Mastodon, Reddit, Snapchat, Telegram, TikTok, X kaj Youtube
 - **[Esperanto-SRT](https://github.com/BitsAndDopamine/Esperanto-SRT/)** - Krei srt-dosierojn el Esperantaj mp3-dosieroj
+- **[Reta Lernejo](https://github.com/reta-lernejo/)** *([🌐 Retejo](https://reta-lernejo.github.io/))* - materialo por lernado pri diversaj fakoj
  
 ## 🧩 Kromprogramoj (addons):
 
